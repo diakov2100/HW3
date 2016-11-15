@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStorageAndProcessing.UI", "DataStorageAndProcessing.UI\DataStorageAndProcessing.UI.csproj", "{C9E518A7-44A6-4A3D-B497-F07ED9ABD69D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStorageAndProcessing.Data", "DataStorageAndProcessing.Data\DataStorageAndProcessing.Data.csproj", "{C491988A-956E-44FE-ADFB-1B04463BC178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E518A7-44A6-4A3D-B497-F07ED9ABD69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E518A7-44A6-4A3D-B497-F07ED9ABD69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E518A7-44A6-4A3D-B497-F07ED9ABD69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E518A7-44A6-4A3D-B497-F07ED9ABD69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C491988A-956E-44FE-ADFB-1B04463BC178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C491988A-956E-44FE-ADFB-1B04463BC178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C491988A-956E-44FE-ADFB-1B04463BC178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C491988A-956E-44FE-ADFB-1B04463BC178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

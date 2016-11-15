@@ -1,0 +1,5 @@
+c:\users\максим\documents\visual studio 2015\Projects\DataStorageAndProcessing\DataStorageAndProcessing.Data\bin\Debug\DataStorageAndProcessing.Data.dll
+c:\users\максим\documents\visual studio 2015\Projects\DataStorageAndProcessing\DataStorageAndProcessing.Data\bin\Debug\DataStorageAndProcessing.Data.pdb
+c:\users\максим\documents\visual studio 2015\Projects\DataStorageAndProcessing\DataStorageAndProcessing.Data\obj\Debug\DataStorageAndProcessing.Data.csprojResolveAssemblyReference.cache
+c:\users\максим\documents\visual studio 2015\Projects\DataStorageAndProcessing\DataStorageAndProcessing.Data\obj\Debug\DataStorageAndProcessing.Data.dll
+c:\users\максим\documents\visual studio 2015\Projects\DataStorageAndProcessing\DataStorageAndProcessing.Data\obj\Debug\DataStorageAndProcessing.Data.pdb
