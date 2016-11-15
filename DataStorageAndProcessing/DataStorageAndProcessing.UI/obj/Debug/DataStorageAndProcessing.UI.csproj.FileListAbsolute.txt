@@ -17,3 +17,6 @@ c:\users\максим\documents\visual studio 2015\Projects\DataStorageAndProces
 c:\users\максим\documents\visual studio 2015\Projects\DataStorageAndProcessing\DataStorageAndProcessing.UI\obj\Debug\DataStorageAndProcessing.UI.csproj.GenerateResource.Cache
 c:\users\максим\documents\visual studio 2015\Projects\DataStorageAndProcessing\DataStorageAndProcessing.UI\obj\Debug\DataStorageAndProcessing.UI.exe
 c:\users\максим\documents\visual studio 2015\Projects\DataStorageAndProcessing\DataStorageAndProcessing.UI\obj\Debug\DataStorageAndProcessing.UI.pdb
+C:\Users\Максим\Documents\GitHub\HW3_Csharp\DataStorageAndProcessing\DataStorageAndProcessing.UI\bin\Debug\DataStorageAndProcessing.UI.exe.config
+C:\Users\Максим\Documents\GitHub\HW3_Csharp\DataStorageAndProcessing\DataStorageAndProcessing.UI\obj\Debug\DataStorageAndProcessing.UI.exe
+C:\Users\Максим\Documents\GitHub\HW3_Csharp\DataStorageAndProcessing\DataStorageAndProcessing.UI\obj\Debug\DataStorageAndProcessing.UI.pdb
